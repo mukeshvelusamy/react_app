@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
+.home{
+    background-image: url(https://codestar.xyz/demo/eduserve/assets/img/body-bg.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.homeimg{
+    width: 350px;
+}
+ .card1:hover
+{
+ background: linear-gradient(to top, rgba(255, 0, 122, 1) 0%, rgba(142, 0, 116, 1) 100%);
+ color:white;
+}
+.course1{
+    transition: transform 0.3s ease-in-out;
+}
+.course1:hover
+{
+ background: linear-gradient(to top, rgba(255, 0, 122, 1) 0%, rgba(142, 0, 116, 1) 100%);
+ color:white;
+ transform: scale(1.15);
+}
+.active{
+ background: linear-gradient(to top, rgba(255, 0, 122, 1) 0%, rgba(142, 0, 116, 1) 100%);
+ color:white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.teacher {
+    transition: transform 0.3s ease-in-out;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.teacher:hover {
+    filter:grayscale(100%);
+    transform: scale(1.15);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.contact
+{
+    background-image: url(	https://codestar.xyz/demo/eduserve/assets/img/contact-us.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color:#7e1162;
+    background-blend-mode: screen;
 }
-
-.App-link {
-  color: #61dafb;
+.contact1{
+    background-color: white;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+::-webkit-input-placeholder{
+    color: white;
 }
+:focus::-webkit-input-placeholder{
+    opacity: 0.5;
+}
+input{
+    color: white;
+}
+/* teacher code */
