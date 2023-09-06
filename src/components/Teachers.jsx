@@ -2,7 +2,7 @@ import React from 'react'
 
 function Teachers() {
   return (
-    <div className='container'>
+    <div className='container' id="teachers">
         <div className='text-center'>
             <h1>Our Teachers</h1>
             <span className='' style={{color:"#e83e8c"}}>A modern and unique style</span>
@@ -10,6 +10,7 @@ function Teachers() {
         <div className='row justify-content-between'>
             <div className='col-10 col-md-3 col-lg-3 mb-1 teacher'>
              <img src='	https://codestar.xyz/demo/eduserve/assets/img/teachers/teacher-image-2.jpg' style={{width:"250px"}} alt="teacher"/>
+            <div className='overlay'></div>
             </div>
             <div className='col-10 col-md-3 col-lg-3 mb-1 teacher'>
              <img src='	https://codestar.xyz/demo/eduserve/assets/img/teachers/teacher-image-7.jpg' style={{width:"250px"}} alt="teacher"/>

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Price() {
   return (
-    <div className='container p-5' id='contacts'>
+    <div className='container p-5' id='prices'>
        <div className='text-center'>
             <h2>Affordable Packages</h2>
             <span className='' style={{color:"#e83e8c"}}>A modern and unique style</span>

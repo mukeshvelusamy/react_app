@@ -3,7 +3,7 @@ import '../App.css';
 function Home() {
   return (
     <div>
-    <div className='homes' id='contacts'>
+    <div className='homes' id='homes'>
     <div className='container '>
         <div className=' row d-flex justify-content-center align-items-center'  style={{minHeight: "100vh"}}>
         <div className='col-md-6 col-lg-6 col-12'>

@@ -1,4 +1,9 @@
-.home{
+.navbars{
+    background-color:#7e1162;
+    
+}
+
+.homes{
     background-image: url(https://codestar.xyz/demo/eduserve/assets/img/body-bg.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
