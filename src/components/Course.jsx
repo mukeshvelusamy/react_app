@@ -18,31 +18,31 @@ function Course() {
             <div className=' card course1 rounded-0 shadow-lg border-0 col-5 col-md-1 col-lg-1 d-flex justify-content-center align-items-center' style={{width:"150px", height:"150px"}}>
                 <div className='text-center'>
                     <i className="fa fa-car" ></i>
-                    <p>NETWORKING</p>
+                    <p>PHP</p>
                 </div>
             </div>
             <div className=' card course1 rounded-0 shadow-lg border-0 col-5 col-md-1 col-lg-1 d-flex justify-content-center align-items-center' style={{width:"150px", height:"150px"}}>
                 <div className='text-center'>
                     <i className="fa fa-car" ></i>
-                    <p>NETWORKING</p>
+                    <p>PYTHON</p>
                 </div>
             </div>
             <div className=' card course1 rounded-0 shadow-lg border-0 col-5 col-md-1 col-lg-1 d-flex justify-content-center align-items-center' style={{width:"150px", height:"150px"}}>
                 <div className='text-center'>
                     <i className="fa fa-car" ></i>
-                    <p>NETWORKING</p>
+                    <p>DESIGN</p>
                 </div>
             </div>
             <div className=' card course1 rounded-0 shadow-lg border-0 col-5 col-md-1 col-lg-1 d-flex justify-content-center align-items-center' style={{width:"150px", height:"150px"}}>
                 <div className='text-center'>
                     <i className="fa fa-car" ></i>
-                    <p>NETWORKING</p>
+                    <p>HTML5/CSS3</p>
                 </div>
             </div>
             <div className=' card course1 rounded-0 shadow-lg border-0 col-5 col-md-1 col-lg-1 d-flex justify-content-center align-items-center' style={{width:"150px", height:"150px"}}>
                 <div className='text-center'>
                     <i className="fa fa-car" ></i>
-                    <p>NETWORKING</p>
+                    <p>PHOTOGRAPHY</p>
                 </div>
             </div>
         </div>
